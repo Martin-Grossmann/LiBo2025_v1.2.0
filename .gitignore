@@ -11,12 +11,7 @@ build
 frontend/build
 backend/public
 
-# All assets - managed separately
-frontend/assets/
-frontend/src/assets/
-frontend/public/assets/
-
-backend/node.exe
+backend/node.# Environmentbackend/node.exe
 
 # Environment variables
 .env

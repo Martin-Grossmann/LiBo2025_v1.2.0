@@ -67,7 +67,7 @@
     ],
     "directories": {
       "buildResources": "assets",
-      "output": "C:/Users/hakun/Desktop/LiBo2025-win32-x64"
+      "output": "C:/Users/Martin/Desktop/LiBo2025-win32-x64"
     },
     "win": {
       "icon": "assets/Pumba.ico"

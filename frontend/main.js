@@ -50,7 +50,7 @@ function createWindow () {
     height: Math.round(baseHeight / zoomFactor),
     resizable: true,
     fullscreen: true,
-    icon: path.join(__dirname, 'assets', 'Pumba.ico'),
+    icon: path.join(__dirname, 'assets', 'bumba.ico'),
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
     }
