@@ -2,7 +2,7 @@ import React, { useEffect, useState, useMemo } from "react";
 import { MapContainer, TileLayer, useMap } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import "./Chart2D.css";
-import HelpWindows from "../HelpWindows/HelpWindows";
+import HelpWindows from "../HelpWindows/HelpWindows2D";
 import L from "leaflet"; // Explication Leaflet: https://leafletjs.com/examples/quick-start/
 import { useSelector, useDispatch } from "react-redux";
 import { isValidCoordinate } from "../../utilities/chart2DHelper";

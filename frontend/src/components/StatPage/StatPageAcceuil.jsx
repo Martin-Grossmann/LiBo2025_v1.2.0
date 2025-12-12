@@ -4,7 +4,7 @@ import DisableScrollZoom from "../../utilities/DisableScrollZoom";
 import StatPageSpeed from "./StatPageSpeed"
 import StatPageNav from "./StatPageNav"
 import StatPageEscale from "./StatPageEscale"
-import coursVite from "../../assets/cours-vite.jpng"
+import coursVite from "../../assets/cours-vite.jpg"
 import coursLongtemps from "../../assets/cours-longtemps.png"
 import sieste from "../../assets/sieste.png"
 import ImageFond from "../../assets/ZIC_Atlantique_788.jpg";
