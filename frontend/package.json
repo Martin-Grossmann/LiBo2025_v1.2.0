@@ -79,8 +79,7 @@
       "allowToChangeInstallationDirectory": true,
       "artifactName": "${productName} Setup ${version}.exe"
     },
-    "asar": false,
-    "afterPack": "./afterPack.js"
+    "asar": false
   },
   "homepage": ".",
   "author": "Martin Grossmann",
