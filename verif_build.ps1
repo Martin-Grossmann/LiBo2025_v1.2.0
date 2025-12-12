@@ -1,6 +1,6 @@
 # Script de vérification de la structure du build Electron
 # À exécuter dans le dossier contenant le build final (ex: win-unpacked)
-$buildPath = "C:\Users\hakun\Desktop\LiBo2025-win32-x64\win-unpacked"
+$buildPath = "C:\Users\Martin\Desktop\LiBo2025-win32-x64\win-unpacked"
 
 
 Write-Host "Vérification de la structure du build Electron..."

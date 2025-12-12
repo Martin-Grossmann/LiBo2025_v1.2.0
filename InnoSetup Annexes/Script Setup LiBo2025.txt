@@ -26,8 +26,8 @@ DisableProgramGroupPage=yes
 OutputDir=C:\Users\Martin\Desktop
 OutputBaseFilename=Setup LiBo2025
 
-SetupIconFile        = C:\Users\hakun\JS - REACT\LiBo2025_2\frontend\assets\Pumba.ico
-UninstallDisplayIcon = C:\Users\hakun\JS - REACT\LiBo2025_2\frontend\assets\Pumba.ico
+SetupIconFile        = C:\Users\Martin\VisualStudioCode\JS - REACT\LiBo2025\frontend\assets\Pumba.ico
+UninstallDisplayIcon = C:\Users\Martin\VisualStudioCode\JS - REACT\LiBo2025\frontend\assets\Pumba.ico
 
 Compression=lzma
 SolidCompression=yes       
@@ -46,8 +46,8 @@ Name: {app}; Permissions: users-full
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files] 
-Source: "C:\Users\hakun\Desktop\LiBo2025-win32-x64\win-unpacked\LiBo2025.exe"; DestDir: "{app}"; DestName: "{#MyAppExeName}"; Flags: ignoreversion
-Source: "C:\Users\hakun\Desktop\LiBo2025-win32-x64\win-unpacked\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "C:\Users\Martin\Desktop\LiBo2025-win32-x64\win-unpacked\LiBo2025.exe"; DestDir: "{app}"; DestName: "{#MyAppExeName}"; Flags: ignoreversion
+Source: "C:\Users\Martin\Desktop\LiBo2025-win32-x64\win-unpacked\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
