@@ -71,8 +71,7 @@
     },
     "win": {
       "icon": "assets/Pumba.ico",
-      "signingHashAlgorithms": ["sha256"],
-      "sign": null
+      "signAndEditExecutable": false
     },
     "nsis": {
       "oneClick": false,
