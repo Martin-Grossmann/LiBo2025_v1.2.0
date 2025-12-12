@@ -70,7 +70,9 @@
       "output": "C:/Users/Martin/Desktop/LiBo2025-win32-x64"
     },
     "win": {
-      "icon": "assets/Pumba.ico"
+      "icon": "assets/Pumba.ico",
+      "signingHashAlgorithms": ["sha256"],
+      "sign": null
     },
     "nsis": {
       "oneClick": false,
